@@ -10,9 +10,8 @@
 
 ## About me
 
-I'm a QA engineer who loves learning new things and diving into the details 🔎  
-📘 Completed a Software Testing course at IT-Academy (2022)  
-🎓 Non-Commercial IT School RedRover QA Automation with Java (online course) (2023)    
+I'm a QA engineer who loves learning new things and diving into the details 🔎
+🎓 Completed non-Commercial IT School RedRover QA Automation with Java (online course) (2023)    
 🛠️ Java Automation QA Intern at SimbirSoft (2024)  
 🚀 QA Trainee at tech startup project (2025)  
 💻 Automating tests in Java, specializing in UI and API testing  
