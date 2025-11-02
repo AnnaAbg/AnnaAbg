@@ -15,7 +15,7 @@ I'm a QA engineer who loves learning new things and diving into the details 🔎
 🛠️ Java Automation QA Intern at SimbirSoft (2024)   
 🚀 QA Trainee at tech startup project (2025)  
 💻 Automating tests in Java, specializing in UI and API testing  
-⚡ Making sure everything runs smoothly, so I don’t have to break out my emergency “Fix-It” ☕ coffee
+⚡ Making sure everything runs smoothly, so I don’t have to break out my emergency “Fix-It” coffee 😉
 
 
 ## Tech Stack
@@ -23,8 +23,8 @@ I'm a QA engineer who loves learning new things and diving into the details 🔎
 <div>
   <a href="https://www.java.com/"><img src="icons/java-original.svg" width="40"></a>
   <a href="https://testng.org/"><img src="/icons/testng.webp" width="40"></a>
-  <a href="https://junit.org/junit5/"><img src="/icons/JUnit5.svg" width="40"></a>
-  <a href="https://www.selenium.dev/"><img src="icons/selenium.svg" width="40" height="40"></a>
+  <a href="https://junit.org/junit5/"><img src="icons/JUnit5.svg" width="40"></a>
+  <a href="https://www.selenium.dev/"><img src="icons/selenium.svg" width="40"></a>
   <a href="https://www.postman.com/"><img src="/icons/postman.svg" width="40"></a>
   <a href="https://git-scm.com/"><img src="icons/git-original.svg" width="40"></a>
   <a href="https://www.mysql.com/"><img src="icons/mysql-plain.svg" width="40"></a>
