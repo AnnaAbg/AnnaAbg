@@ -26,7 +26,6 @@ I'm a QA engineer who loves learning new things and diving into the details 🔎
 <div>
   <a href="https://jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="Intelij_IDEA" width="60" height="60"/></a>&nbsp
   <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" width="60" height="60"/></a>&nbsp
-  <a href="https://testng.org/" target="_blank> <img src="/icons/testng.webp" width="40"></a><a href="https://testng.org" target="_blank">
   <a href="https://testng.org/" target="_blank"> <img src="icons/TestNG Logo.png" width="60" height="60"/></a>&nbsp
   <a href="https://junit.org/junit5/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" alt="JUnit5" width="60" height="60"/></a>&nbsp
   <a href="https://www.selenium.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" alt="Selenium" width="60" height="60"/></a>&nbsp
