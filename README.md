@@ -11,16 +11,13 @@
 
 I'm a QA engineer who loves learning new things and diving into the details 🔎  
 🎓 Completed non-Commercial IT School RedRover QA Automation with Java (online course) (2023)   
-🛠️ Java Automation QA Intern at SimbirSoft (2024)   
+🛠️ Java Automation QA Intern at <a href="https://www.simbirsoft.com/">SimbirSoft</a> (2024)   
 🚀 QA Trainee at tech startup project (2025)  
 💻 Automating tests in Java, specializing in UI and API testing  
 ⚡ Making sure everything runs smoothly, so I don’t have to break out my emergency “Fix-It” coffee 😉
 
 
 ## Tech Stack
-
-
- 
 
 <div>
   <a href="https://jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="Intelij_IDEA" width="60" height="60"/></a>&nbsp
