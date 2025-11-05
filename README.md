@@ -3,7 +3,7 @@
 <!-- Social icons section-->
 <div align="center">
   <p>
-    <a href="abgaryananna8@gmail.com"><img src="https://img.shields.io/badge/Send%20Email-red?style=for-the-badge" alt="Send email"></a>
+    <a href="mailto:abgaryananna8@gmail.com"><img src="https://img.shields.io/badge/Send%20Email-red?style=for-the-badge" alt="Send email"></a>
   </p>
 </div>
 
