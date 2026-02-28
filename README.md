@@ -19,22 +19,19 @@ I'm a QA engineer who loves learning new things and diving into the details 🔎
 
 ## Tech Stack
 
-<div>
-  <a href="https://jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="Intelij_IDEA" width="60" height="60"/></a>&nbsp
-  <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" width="60" height="60"/></a>&nbsp
-  <a href="https://testng.org/" target="_blank"> <img src="icons/testng.webp" width="60" height="60"/></a>&nbsp
-  <a href="https://junit.org/junit5/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" alt="JUnit5" width="60" height="60"/></a>&nbsp
-  <a href="https://www.selenium.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" alt="Selenium" width="60" height="60"/></a>&nbsp
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="60" height="60"/></a>&nbsp
-  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" width="60" height="60"/></a>&nbsp
-  <a href="https://docs.qameta.io/allure/" target="_blank"> <img src="https://camo.githubusercontent.com/92c52c9dec4499ae3589fa3ed6bf380536ff082a9e1a6e1683b290ea3e08a19d/68747470733a2f2f73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f6d61747269782e6173736574732f376436697574347a6a777a74726f6b7a7572316f6265386a6b767677" alt="Allure_Report" width="60" height="100"/></a>&nbsp
-  <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png" alt="Sublime_Text" width="60" height="60"/></a>&nbsp
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" width="60" height="60"/></a>&nbsp
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" width="60" height="60"/></a>&nbsp
-  <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" width="60" height="60"/></a>&nbsp
-  <a href="https://www.jetbrains.com/ru-ru/youtrack/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" alt="Youtrack" width="60" height="60"/></a>&nbsp
-
-</div>
+<h2>Tools</h2>
+<a href="https://www.java.com/"><img src="icons/java.png" alt="Java" width="35" height="35"></a>
+<a href="https://testng.org/"><img src="icons/testng.png" alt="TestNG" width="30" height="30"></a>
+<a href="https://junit.org/"><img src="icons/Junit.png" alt="Junit" width="30" height="30"></a>
+<a href="https://www.selenium.dev/"><img src="icons/selenium.png" alt="Selenium" width="30" height="30"></a>
+<a href="https://git-scm.com/"><img src="icons/git.png" alt="Git" width="30" height="30"></a>
+<a href="https://www.jetbrains.com/ru-ru/idea/"><img src="icons/intellij.png" alt="IntelliJ" width="30" height="30"></a>
+<a href="https://www.mysql.com/"><img src="icons/sql.png" alt="SQL" width="30" height="30"></a>
+<a href="https://www.notion.so/"><img src="icons/notion.png" alt="Notion" width="30" height="30"></a>
+<a href="https://allurereport.org/"><img src="icons/allure.png" alt="Allure" width="30" height="30"></a>>
+<a href="https://www.postman.com/"><img src="icons/postman.png" alt="Postman" width="30" height="30"></a>>
+<a href="https://www.atlassian.com/software/jira"><img src="icons/Jira.png" alt="Jira" width="30" height="30"></a>
+<a href="https://trello.com/"><img src="icons/trello.png" alt="Trello" width="30" height="30"></a>
 
 
 ## Projects
