@@ -26,10 +26,9 @@ I'm a QA engineer who loves learning new things and diving into the details 🔎
 <a href="https://www.selenium.dev/"><img src="icons/selenium.png" alt="Selenium" width="30" height="30"></a>
 <a href="https://git-scm.com/"><img src="icons/git.png" alt="Git" width="30" height="30"></a>
 <a href="https://www.jetbrains.com/ru-ru/idea/"><img src="icons/intellij.png" alt="IntelliJ" width="30" height="30"></a>
-<a href="https://www.mysql.com/"><img src="icons/sql.png" alt="SQL" width="30" height="30"></a>
-<a href="https://www.notion.so/"><img src="icons/notion.png" alt="Notion" width="30" height="30"></a>
-<a href="https://allurereport.org/"><img src="icons/allure.png" alt="Allure" width="30" height="30"></a>>
 <a href="https://www.postman.com/"><img src="icons/postman.png" alt="Postman" width="30" height="30"></a>>
+<a href="https://www.mysql.com/"><img src="icons/sql.png" alt="SQL" width="30" height="30"></a>
+<a href="https://allurereport.org/"><img src="icons/allure.png" alt="Allure" width="30" height="30"></a>>
 <a href="https://www.atlassian.com/software/jira"><img src="icons/Jira.png" alt="Jira" width="30" height="30"></a>
 <a href="https://trello.com/"><img src="icons/trello.png" alt="Trello" width="30" height="30"></a>
 
@@ -38,8 +37,8 @@ I'm a QA engineer who loves learning new things and diving into the details 🔎
 
 <div>
   <ul>
-    <li><a href="https://github.com/AnnaAbg/Online_Pharmacy_Project">Tiny demo project with auto tests</li>
-    <li><a href="https://github.com/AnnaAbg/99BottlesProjectJava">Auto tests for 99 Bottles of Beer site</li>
+    <li><a href="https://github.com/AnnaAbg/Online_Pharmacy_Project">Tiny demo project with auto tests</a></li>
+    <li><a href="https://github.com/AnnaAbg/99BottlesProjectJava">Auto tests for 99 Bottles of Beer site</a></li>
     <li> Contributing to the RedRover School projects </li>
   </ul>
 </div>
